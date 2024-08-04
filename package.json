@@ -1,7 +1,7 @@
 {
-  "name": "langchain_hf",
+  "name": "huggingface",
   "version": "1.0.0",
-  "description": "LangChain with Hugging Face",
+  "description": "Hugging Face by Express",
   "main": "dist/app.js",
   "scripts": {
     "build": "tsc",

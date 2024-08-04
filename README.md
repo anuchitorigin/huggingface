@@ -1,4 +1,4 @@
-# langchain_hf
+# Hugging Face by Express
 
-LangChain with Hugging Face API Backend.
+Hugging Face API Backend.
 Powered by Node.js, Express, TypeScript, and HuggingFace API.
